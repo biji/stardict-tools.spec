@@ -1,4 +1,4 @@
-stardict editor / stardict tools src.rpm for Fedora copr
+stardict editor / stardict tools spec for Fedora copr
 
 Use: stardict-tools.spec 
 
