@@ -1,0 +1,62 @@
+     In addition to the Jargon lexicon, the Jargon file contains a lot
+of interesting introductory and background material.  This may be read
+with `zless /usr/share/dictd/jargon.dict.dz'.  (The dictzip format is
+compatible with the gzip format, but lesspipe doesn't know about the
+.dz extension.)
+
+     The following Section Headings have been indexed:  (Remember if
+your search target contains spaces it must be quoted.)
+
+     Unlike previous releases of this package, the individual titles
+of the Bibliography have not been indexed.  `dict bibliography' will
+return all titles from the bibliography.
+
+Introduction
+Of Slang, Jargon, and Techspeak
+Revision History
+How Jargon Works
+Jargon Construction
+Verb Doubling
+Soundalike slang
+The `-P' convention
+Overgeneralization
+Spoken inarticulations
+Anthropomorphization
+Comparatives
+Hacker Writing Style
+Email Quotes and Inclusion Conventions
+Hacker Speech Style
+International Style
+Crackers, Phreaks, and Lamers
+How to Use the Lexicon
+Pronunciation Guide
+Other Lexicon Conventions
+Format For New Entries
+Hacker Folklore
+The Meaning of `Hack'
+TV Typewriters
+A Story About `Magic'
+Some AI Koans
+OS and JEDGAR
+The Story of Mel
+A Portrait of J. Random Hacker
+General Appearance
+Dress
+Reading Habits
+Other Interests
+Physical Activity and Sports
+Education
+Things Hackers Detest and Avoid
+Food
+Politics
+Gender and Ethnicity
+Religion
+Ceremonial Chemicals
+Communication Style
+Geographical Distribution
+Sexual Habits
+Personality Characteristics
+Weaknesses of the Hacker Personality
+Miscellaneous
+Helping Hacker Culture Grow
+Bibliography
